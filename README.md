@@ -13,9 +13,6 @@ This repository demonstrates my hands-on experience with Playwright, an open-sou
 - [Git](https://git-scm.com/) - Version control
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
-**Installation Instructions**
-To get started with this project locally, follow the steps below:
-
 **Clone the repository:**
    git clone https://github.com/ymdange/playwright-self-learning.git
    cd playwright-self-learning
