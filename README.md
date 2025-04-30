@@ -1,4 +1,4 @@
-**Playwright Self-Learning Project**
+**Playwright Self-Learning Project - First end-to-end testing**
 This repository demonstrates my hands-on experience with Playwright, an open-source browser automation library for end-to-end testing. I created this project to learn how to use Playwright for automating web applications and performing tests.
 
 **Features:**
